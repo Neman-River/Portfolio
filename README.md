@@ -5,3 +5,11 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 - *Email:* natasha.lantuh@proton.me
 - *LinkedIn:* https://www.linkedin.com/in/natasha-lantuh-848646253/
 
+
+----
+# Core Competencies
+
+Methodologies: Time Series Analysis, Statistics, Machine Learning, A/B Testing and Experimentation Design
+Languages: Python (pandas, numpy, scipy, seaborn, matplotlib), R (tidyverse, fable, prophet, ggplot2), SQL, C
+Visualisation: Streamlit, Shiny
+Tools: VS Code, PostgreSQL, Tableau, Git, Flask, MS Excel
