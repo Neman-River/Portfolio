@@ -31,18 +31,23 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 ----
 # **Certificates**
 
-- Machine Learning Specialization By DeepLearning.ai:
-  -[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/dd03819fc7a5a0b810849f53b3b77d91)
+- Machine Learning Specialization By DeepLearning.AI:
   
-  -[Advanced Learning Algorithms](https://coursera.org/share/792840417562f2d6ce2e3ebc895a733b)
+  - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/dd03819fc7a5a0b810849f53b3b77d91)
   
-  -[Natural Language Processing with Classification and Vector Space](https://coursera.org/share/e5e7b17dd0d33d8df6fd7e5fd282b81a)
+  - [Advanced Learning Algorithms](https://coursera.org/share/792840417562f2d6ce2e3ebc895a733b)
   
-  -[AI and Public Health](https://coursera.org/share/8c3eba265c7746a9b7b4874297923ff6)
+  - [Natural Language Processing with Classification and Vector Space](https://coursera.org/share/e5e7b17dd0d33d8df6fd7e5fd282b81a)
   
-  -[AI and Climate Change](https://coursera.org/share/8c3eba265c7746a9b7b4874297923ff6)
+  - [AI and Public Health](https://coursera.org/share/8c3eba265c7746a9b7b4874297923ff6)
+  
+  - [AI and Climate Change](https://coursera.org/share/8c3eba265c7746a9b7b4874297923ff6)
   
 
 - LLMs and GenAI:
-  -[AI Agents and Agentic AI with Python & Generative AI](https://coursera.org/share/556ce32dacf0ba2293ed8695afab17c2)
+  
+  - [AI Agents and Agentic AI with Python & Generative AI](https://coursera.org/share/556ce32dacf0ba2293ed8695afab17c2). By Vanderbilt University
+  - [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/accomplishments/323b76c8-cfac-4183-ace5-6f389e289a5a?usp=sharing). By DeepLearning.ai
+  - [Preprocessing Unstructured Data for LLM Applications](https://learn.deeplearning.ai/accomplishments/12b010ed-ec7b-42b6-a1e0-8acd5120450f?usp=sharing). By DeepLearning.ai
+   
   
