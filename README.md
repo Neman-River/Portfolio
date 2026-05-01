@@ -6,7 +6,24 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 - **LinkedIn:** https://www.linkedin.com/in/natasha-lantuh-848646253/
 
 ----
-# **Projects**
+
+## **Projects**
+
+<table>
+  <tr>
+    <td width="300">
+      <img src="https://your-image-url.jpg" width="300"/>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Neman-River/AB-Test_Cookie-Cats">Cookie Cats A/B Analysis</a></h3>
+      Analyzed a mobile game retention experiment using both frequentist and 
+      Bayesian approaches. Compared day-1 and day-7 retention between two 
+      game gate positions using bootstrap confidence intervals and Beta-Binomial 
+      modeling.
+    </td>
+  </tr>
+
+</table>
 ----
 # **Micro Projects**
 - ## Statistics and Machine Learning
