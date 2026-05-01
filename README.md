@@ -9,7 +9,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
 ## **Projects**
 
-<table>
+<!-- <table> -->
   <tr>
     <td width="300">
       <img src="https://github.com/Neman-River/AB-Test_Cookie-Cats/blob/main/images/cookie_cats.jpg" width="300"/>
@@ -23,7 +23,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
     </td>
   </tr>
 
-</table>
+<!-- </table> -->
 ----
 # **Micro Projects**
 - ## Statistics and Machine Learning
