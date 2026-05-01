@@ -24,8 +24,10 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
   </tr>
 
 </table>
+
 ----
 # **Micro Projects**
+
 - ## Statistics and Machine Learning
   - [Frequentist Statistics](https://github.com/Neman-River/statistics-notebooks): My statistics learning workspace covering descriptive statistics, probability theory, hypothesis testing, and inferential statistics through hands-on Jupyter notebooks.
     
@@ -38,6 +40,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
 - ## Computer Science and Programming
   - [Finance App](https://github.com/Neman-River/cs50-finance): A web application for managing a simulated stock portfolio. Built as the final project for Week 9 of CS50x — Introduction to Computer Science by Harvard University. Python / Flask
+    
 ----
 # **Core Competencies**
 
