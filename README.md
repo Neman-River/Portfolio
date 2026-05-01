@@ -6,6 +6,8 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 - **LinkedIn:** https://www.linkedin.com/in/natasha-lantuh-848646253/
 
 ----
+# **Projects**
+----
 # **Micro Projects**
 - ## Statistics and Machine Learning
 
@@ -15,6 +17,9 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
   - [A/B Test Cookie Cats](https://github.com/Neman-River/AB-Test_Cookie-Cats): A/B test analysis examining the effect of moving the first gate in the mobile game Cookie Cats from level 30 to level 40, with a focus on player retention. In this project In this project, I apply different approaches, from classical z-test to bootstrap and Bayesian statistics.
 
+
+- ## Computer Science and Programming
+  - [Finance App](https://github.com/Neman-River/cs50-finance): A web application for managing a simulated stock portfolio. Built as the final project for Week 9 of CS50x — Introduction to Computer Science by Harvard University. Python / Flask
 ----
 # **Core Competencies**
 
@@ -22,3 +27,6 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 - Languages: Python (pandas, numpy, scipy, seaborn, matplotlib), R (tidyverse, fable, prophet, ggplot2, plotly), SQL, C
 - Visualisation: Streamlit, Shiny
 - Tools: VS Code, PostgreSQL, Tableau, Git, Flask, MS Excel
+
+----
+# **Certificates**
