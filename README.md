@@ -30,3 +30,13 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
 ----
 # **Certificates**
+
+- Machine Learning Specialization By DeepLearning.ai:
+  -[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/dd03819fc7a5a0b810849f53b3b77d91)
+  -[Advanced Learning Algorithms](https://coursera.org/share/792840417562f2d6ce2e3ebc895a733b)
+  -[Natural Language Processing with Classification and Vector Space](https://coursera.org/share/e5e7b17dd0d33d8df6fd7e5fd282b81a)
+  -[AI and Public Health](https://coursera.org/share/8c3eba265c7746a9b7b4874297923ff6)
+  -[AI and Climate Change](https://coursera.org/share/8c3eba265c7746a9b7b4874297923ff6)
+
+- LLMs and GenAI:
+  -[AI Agents and Agentic AI with Python & Generative AI](https://coursera.org/share/556ce32dacf0ba2293ed8695afab17c2)
