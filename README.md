@@ -12,7 +12,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 <table>
   <tr>
     <td width="300">
-      <img src="https://your-image-url.jpg" width="300"/>
+      <img src="https://github.com/Neman-River/AB-Test_Cookie-Cats/blob/main/images/cookie_cats.jpg" width="300"/>
     </td>
     <td>
       <h3><a href="https://github.com/Neman-River/AB-Test_Cookie-Cats">Cookie Cats A/B Analysis</a></h3>
