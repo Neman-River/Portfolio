@@ -10,10 +10,11 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 - ## Statistics and Machine Learning
 
   - Beta Binomial Distribution. In this project I explored how Bayesian Statistics works with the Beta-Binomial family distribution. [App](https://beta-binomial-simulator.streamlit.app)
-  - Test Power Simulator. [App](https://testpowersimulator.streamlit.app)
+    
+  - [Test Power Simulator](https://github.com/Neman-River/test_power_simulator): In this project I explore how sample size and real difference in analysing groups influence test sensitivity. [App](https://testpowersimulator.streamlit.app)
 
   - [A/B Test Cookie Cats](https://github.com/Neman-River/AB-Test_Cookie-Cats): A/B test analysis examining the effect of moving the first gate in the mobile game Cookie Cats from level 30 to level 40, with a focus on player retention. In this project In this project, I apply different approaches, from classical z-test to bootstrap and Bayesian statistics.
-https://github.com/Neman-River/AB-Test_Cookie-Cats 
+
 ----
 # **Core Competencies**
 
