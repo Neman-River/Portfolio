@@ -8,7 +8,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 ----
 # **Micro Projects**
 ## - Statistics and Machine Learning
- - Beta Binomial Distribution. In this project I explored how Bayesian Statistics works with the Beta-Binomial conjugate model. App: https://beta-binomial-simulator.streamlit.app
+ - Beta Binomial Distribution. In this project I explored how Bayesian Statistics works with the Beta-Binomial family distribution. App: https://beta-binomial-simulator.streamlit.app
   
  - Test Power Simulator. App https://testpowersimulator.streamlit.app
 
