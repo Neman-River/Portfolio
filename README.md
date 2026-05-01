@@ -30,6 +30,9 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
     <td>
       <h3><a href="https://github.com/Neman-River/content_distributor">Content Distributor</a></h3>
       An automated video content pipeline that downloads videos from Telegram and uploads them to YouTube with AI-generated metadata.
+      Telegram Channel → Local Files → AI Processing → YouTube Upload
+                                       ↕
+                               PostgreSQL + ChromaDB
     </td>
   </tr>
 
