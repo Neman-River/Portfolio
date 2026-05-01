@@ -7,7 +7,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
 ----
 
-## **Projects**
+# **Projects**
 
 <table> 
   <tr>
@@ -20,6 +20,16 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
       Bayesian approaches. Compared day-1 and day-7 retention between two 
       game gate positions using bootstrap confidence intervals and Beta-Binomial 
       modeling.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="300">
+      <img src="https://github.com/Neman-River/content_distributor/blob/main/images/pipeline.png" width="300"/>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Neman-River/content_distributor">Content Distributor</a></h3>
+      An automated video content pipeline that downloads videos from Telegram and uploads them to YouTube with AI-generated metadata.
     </td>
   </tr>
 
