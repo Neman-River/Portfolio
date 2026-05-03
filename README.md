@@ -53,7 +53,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
 
 - ## Computer Science and Programming
-  - [Finance App](https://github.com/Neman-River/cs50-finance): A web application for managing a simulated stock portfolio. Built as the final project for Week 9 of CS50x — Introduction to Computer Science by Harvard University. Python / Flask
+  - [Finance App](https://github.com/Neman-River/cs50-finance). A web application for managing a simulated stock portfolio. Built as the final project for Week 9 of CS50x — Introduction to Computer Science by Harvard University. Python / Flask
     
 ----
 # **Core Competencies**
