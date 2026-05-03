@@ -45,6 +45,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
   - [Frequentist Statistics](https://github.com/Neman-River/statistics-notebooks): My statistics learning workspace covering descriptive statistics, probability theory, hypothesis testing, and inferential statistics through hands-on Jupyter notebooks.
     
   - [Beta-Binomial Conjugate Model](https://github.com/Neman-River/beta-binomial-simulator): In this project I explored how Bayesian Statistics works with the Beta-Binomial family distribution. [App](https://beta-binomial-simulator.streamlit.app)
+  - [Poisson-Gamma Conjugate Model](https://github.com/Neman-River/Poisson-Gamma-Conjugate-Model). In this notebook and app I explore how the Poisson-Gamma conjugate model works for Bayesian inference, covering prior beliefs, data modelling, and posterior prediction. [App](https://gamma-conjugate-model.streamlit.app)
     
   - [Test Power Simulator](https://github.com/Neman-River/test_power_simulator): In this project I explore how sample size and real difference in analysing groups influence test sensitivity. [App](https://testpowersimulator.streamlit.app)
 
