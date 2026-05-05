@@ -61,7 +61,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 - Methodologies: Time Series Analysis, Statistics, Machine Learning, A/B Testing and Experimentation, Bayesian statistics
 - Languages: Python (pandas, numpy, scipy, seaborn, matplotlib), R (tidyverse, fable, prophet, anomalize, ggplot2, plotly), SQL, C
 - Visualisation: Streamlit, Shiny
-- Tools: VS Code, PostgreSQL, Tableau, Git, Flask, MS Excel
+- Tools: VS Code, PostgreSQL, Tableau, Git, Flask, ChromaDB
 
 ----
 # **Certificates**
