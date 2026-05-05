@@ -46,8 +46,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
     
   - [Test Power Simulator](https://github.com/Neman-River/test_power_simulator). In this project I explore how sample size and real difference in analysing groups influence test sensitivity. [App](https://testpowersimulator.streamlit.app)
 
-  - [A/B Test Cookie Cats](https://github.com/Neman-River/AB-Test_Cookie-Cats). A/B test analysis examining the effect of moving the first gate in the mobile game Cookie Cats from level 30 to level 40, with a focus on player retention. In this project In this project, I apply different approaches, from classical z-test to bootstrap and Bayesian statistics.
-    
+- ##  **Bayesian Statistics**    
   - [Beta-Binomial Conjugate Model](https://github.com/Neman-River/beta-binomial-simulator). In this project I explored how Bayesian Statistics works with the Beta-Binomial family distribution. [App](https://beta-binomial-simulator.streamlit.app)
   - [Poisson-Gamma Conjugate Model](https://github.com/Neman-River/Poisson-Gamma-Conjugate-Model). In this notebook and app I explore how the Poisson-Gamma conjugate model works for Bayesian inference, covering prior beliefs, data modelling, and posterior prediction. [App](https://gamma-conjugate-model.streamlit.app)
   - [Normal-Normal Conjugate Model](https://github.com/Neman-River/Normal-Normal-Conjugate-Model). In this notebook and app I explore how the Normal-Normal conjugate model works for Bayesian inference, plus an A/B testing case study. [App](https://normal-normal-conjugate-model.streamlit.app)
