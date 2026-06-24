@@ -25,6 +25,17 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
   <tr>
     <td width="300">
+      <img src="https://github.com/Neman-River/-whisper-large-v3-turbo-belarusian/images/whisper_by.png" width="300"/>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Neman-River/-whisper-large-v3-turbo-belarusian">Belarusian Whisper </a></h3> 
+      A fine-tuned Belarusian ASR model: Whisper large-v3-turbo adapted with LoRA on Common Voice, reaching 5.48% WER and packaged as a           single GGML file that runs fully offline in Handy.
+      Common Voice 26 (be) → LoRA Fine-tune → Merge → GGML/quantize → Offline app
+    </td>
+  </tr>
+
+  <tr>
+    <td width="300">
       <img src="https://github.com/Neman-River/content_distributor/blob/main/images/pipeline.png" width="300"/>
     </td>
     <td>
