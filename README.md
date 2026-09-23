@@ -70,8 +70,8 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 ----
 # **Core Competencies**
 
-- Methodologies: Time Series Analysis, Statistics, Machine Learning, A/B Testing and Experimentation, Bayesian statistics
-- Languages: Python (pandas, numpy, scipy, seaborn, matplotlib), R (tidyverse, fable, prophet, anomalize, ggplot2, plotly), SQL, C
+- Methodologies: Time Series Analysis, Statistics, Machine Learning, A/B Testing and Experimentation (familiar), Bayesian statistics (familiar)
+- Languages: Python (pandas, numpy, scipy, sklearn, statsmodels, seaborn, matplotlib), R (tidyverse, fable, prophet, anomalize, ggplot2, plotly), SQL (joins, CTE, windows functions), C
 - Visualisation: Streamlit, Shiny
 - Tools: VS Code, PostgreSQL, Git, Flask, ChromaDB
 
