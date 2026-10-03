@@ -56,7 +56,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 - ## Statistics and Machine Learning
 
   - [Fraud Detection](https://github.com/Neman-River/Fraud-Detection-Revolut-). Fraud detection on Revolut-style transaction data.
-  - 
+
   - [Frequentist Statistics](https://github.com/Neman-River/statistics-notebooks). My statistics learning workspace covering descriptive statistics, probability theory, hypothesis testing, and inferential statistics through hands-on Jupyter notebooks.
     
   - [Test Power Simulator](https://github.com/Neman-River/test_power_simulator). In this project I explore how sample size and real difference in analysing groups influence test sensitivity. [App](https://testpowersimulator.streamlit.app)
