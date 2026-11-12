@@ -10,6 +10,17 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 # **Projects**
 
 <table> 
+
+  <tr>
+    <td width="300">
+      <img src="https://neman-river.github.io/bikeshare_toronto/images/tangerine_toronto.jpeg" width="300"/>
+    </td>
+    <td>
+      <h3><a href="https://neman-river.github.io/bikeshare_toronto/overview.html">Toronto's Bike Share Analysis</a></h3> 
+      Analysis of Toronto's bike share system, 2016–2026.
+    </td>
+  </tr>
+  
   <tr>
     <td width="300">
       <img src="https://github.com/Neman-River/AB-Test_Cookie-Cats/blob/main/images/cookie_cats.jpg" width="300"/>
@@ -34,17 +45,6 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
       Telegram Channel → Local Files → AI Processing → YouTube Upload
                                        ↕
                                PostgreSQL + ChromaDB
-    </td>
-  </tr>
-
-  <tr>
-    <td width="300">
-      <img src="https://github.com/Neman-River/whisper-large-v3-turbo-belarusian/blob/main/images/whisper_by.png" width="300"/>
-    </td>
-    <td>
-      <h3><a href="https://github.com/Neman-River/whisper-large-v3-turbo-belarusian">Belarusian Whisper </a></h3> 
-      A fine-tuned Belarusian ASR model: Whisper large-v3-turbo adapted with LoRA on Common Voice, reaching 5.48% WER and packaged as a           single GGML file that runs fully offline in Handy.
-      Common Voice 26 (be) → LoRA Fine-tune → Merge → GGML/quantize → Offline app
     </td>
   </tr>
 
