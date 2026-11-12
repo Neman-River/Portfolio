@@ -13,7 +13,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
 
   <tr>
     <td width="300">
-      <img src="https://github.com/Neman-River/bikeshare_toronto/tree/main/images/tangerine_toronto.jpg" width="300"/>
+      <img src="https://github.com/Neman-River/bikeshare_toronto/tree/main/images/tangerine_toronto.png" width="300"/>
     </td>
     <td>
       <h3><a href="https://neman-river.github.io/bikeshare_toronto/overview.html">Toronto's Bike Share Analysis</a></h3> 
