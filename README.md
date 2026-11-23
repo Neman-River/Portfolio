@@ -24,10 +24,10 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
   
   <tr>
     <td width="300">
-      <img src="https://github.com/Neman-River/AB-Test_Cookie-Cats/blob/main/images/cookie_cats.jpg" width="300"/>
+      <img src="https://github.com/Neman-River/Beta-Binomial-Conjugate-Model/blob/main/newplot.png" width="300"/>
     </td>
     <td>
-      <h3><a href="https://github.com/Neman-River/AB-Test_Cookie-Cats">Cookie Cats A/B Analysis</a></h3>
+      <h3><a href="https://github.com/Neman-River/Beta-Binomial-Conjugate-Model">Explore Beta-Binomial</a></h3>
       Analyzed a mobile game retention experiment using both frequentist and 
       Bayesian approaches. Compared day-1 and day-7 retention between two 
       game gate positions using bootstrap confidence intervals and Beta-Binomial 
@@ -61,6 +61,7 @@ This portfolio showcases a curated collection of Data Science and Data Analysis 
   - [Frequentist Statistics](https://github.com/Neman-River/statistics-notebooks). My statistics learning workspace covering descriptive statistics, probability theory, hypothesis testing, and inferential statistics through hands-on Jupyter notebooks.
     
   - [Test Power Simulator](https://github.com/Neman-River/test_power_simulator). In this project I explore how sample size and real difference in analysing groups influence test sensitivity. [App](https://testpowersimulator.streamlit.app)
+  - [Cookie Cats A/B Analysis](https://github.com/Neman-River/AB-Test_Cookie-Cats). Analyzed a mobile game retention experiment using both frequentist and Bayesian approaches. Compared day-1 and day-7 retention between two game gate positions using bootstrap confidence intervals and Beta-Binomial modeling.
 
 - ##  **Bayesian Statistics**    
   - [Beta-Binomial Conjugate Model](https://github.com/Neman-River/beta-binomial-simulator). In this project I explored how Bayesian Statistics works with the Beta-Binomial family distribution. [App](https://beta-binomial-simulator.streamlit.app)
